@@ -1,4 +1,4 @@
-# 318732484 Ori Fogler
+
 # here it is run_func that handles user's choice by switch case
 
 	.section 	.rodata			# read only section
